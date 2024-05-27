@@ -1,0 +1,257 @@
+{
+    "kategori": [
+        {
+            "id": "sandvic",
+            "kategoriAdi": "Sandviçler",
+            "kategoriFoto": "/imgs/k_susamliTost.jpeg",
+            "altkategori": [
+                {
+                    "product": "Chedarlı İtalyan Sandviç",
+                    "ingredients": "Salam, Jambon, Kaşar, Cheddar",
+                    "price": "100 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Hindi Fümeli Sandviç",
+                    "ingredients": "Hindi Füme, Cheddar, Sos, Labne Peyniri, Krem Peynir, Kekik",
+                    "price": "110 TL",
+                    "img": ""
+                },
+                {
+                    "product": "3 Peynirli Bagel",
+                    "ingredients": "Cheddar, Cheddar, Krem Peynir,",
+                    "price": "100 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Akdeniz Sandviç",
+                    "ingredients": "Beyaz Peynir, Zeytin Ezmesi, Kapya Biber, Kurutulmuş Domates, Kekik",
+                    "price": "100 TL",
+                    "img": ""
+                },
+                {
+                    "product": "3 Peynirli Bagel",
+                    "ingredients": "Cheddar, Cheddar, Krem Peynir",
+                    "price": "100 TL",
+                    "img": ""
+                },
+                {
+                    "product": "3 Peynirli Bagel",
+                    "ingredients": "Cheddar, Cheddar, Krem Peynir",
+                    "price": "100 TL",
+                    "img": ""
+                },
+                {
+                    "product": "3 Peynirli Bagel",
+                    "ingredients": "Cheddar, Cheddar, Krem Peynir",
+                    "price": "100 TL",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": "tatlı",
+            "kategoriAdi": "Tatlılar",
+            "kategoriFoto": "/imgs/k_cheescake.jpeg",
+            "altkategori": [
+                {
+                    "product": "Frambuazlı Cheesecake",
+                    "ingredients": "",
+                    "price": "130 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Limonlu Cheesecake",
+                    "ingredients": "",
+                    "price": "130 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Yaban Mersinli Cheesecake",
+                    "ingredients": "",
+                    "price": "130 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Browni",
+                    "ingredients": "",
+                    "price": "130 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Dondurmalı Browni",
+                    "ingredients": "",
+                    "price": "165 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Havuçlu Kek",
+                    "ingredients": "",
+                    "price": "130 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Ballı Cevizli Pasta (Marlenka)",
+                    "ingredients": "",
+                    "price": "130 TL",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": "borek",
+            "kategoriAdi": "Börekler",
+            "kategoriFoto": "/imgs/k_tost.jpeg",
+            "altkategori": [
+                {
+                    "product": "Patatesli Rulo Börek",
+                    "ingredients": "",
+                    "price": "35 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Kıymalı Patatesli Rulo Börek",
+                    "ingredients": "",
+                    "price": "35 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Peynir Ispanaklı Rulo Börek",
+                    "ingredients": "",
+                    "price": "35 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Patlıcanlı Rulo Börek",
+                    "ingredients": "",
+                    "price": "35 TL",
+                    "img": ""
+                },
+                {
+                    "product": "4'lü Rulo Börek",
+                    "ingredients": "",
+                    "price": "35 TL",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": "kruvasan",
+            "kategoriAdi": "Kruvasanlar",
+            "kategoriFoto": "/imgs/k_kruvasan.jpeg",
+            "altkategori": [
+                {
+                    "product": "Sade Kruvasan",
+                    "ingredients": "",
+                    "price": "75 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Çikolatalı Kruvasan",
+                    "ingredients": "",
+                    "price": "75 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Parmesanlı Kruvasan",
+                    "ingredients": "",
+                    "price": "75 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Tatlı Kremalı Kruvasan",
+                    "ingredients": "",
+                    "price": "75 TL",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": "tattlıM",
+            "kategoriAdi": "Tatlı Menüleri",
+            "kategoriFoto": "/imgs/k_magnolya.jpeg",
+            "altkategori": [
+                {
+                    "product": "Tatlı + Çay (Menü 1)",
+                    "ingredients": "",
+                    "price": "160 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Tatlı + Türk Kahvesi (Menü 2)",
+                    "ingredients": "",
+                    "price": "170 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Tatlı + Filtre (Menü 3)",
+                    "ingredients": "",
+                    "price": "200 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Tatlı + Çekirdek Kahveler (Menü 4)",
+                    "ingredients": "",
+                    "price": "210 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Kruvasan + Filtre (Menü 5)",
+                    "ingredients": "",
+                    "price": "150 TL",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": "cookieM",
+            "kategoriAdi": "Cookie Menüleri",
+            "kategoriFoto": "/imgs/k_cookie.jpeg",
+            "altkategori": [
+                {
+                    "product": "1 adet Cookie + Çay (Menü 1)",
+                    "ingredients": "",
+                    "price": "120 TL",
+                    "img": ""
+                },
+                {
+                    "product": "1 adet Cookie + Türk Kahvesi (Menü 1)",
+                    "ingredients": "",
+                    "price": "135 TL",
+                    "img": ""
+                },
+                {
+                    "product": "1 adet Cookie + Filtre (Menü 1)",
+                    "ingredients": "",
+                    "price": "165 TL",
+                    "img": ""
+                },
+                {
+                    "product": "1 adet Cookie + Çekirdek Kahveler (Menü 1)",
+                    "ingredients": "",
+                    "price": "180 TL",
+                    "img": ""
+                }
+            ]
+        },
+        {
+            "id": "pizza",
+            "kategoriAdi": "Pizza",
+            "kategoriFoto": "/imgs/k_pizza.jpeg",
+            "altkategori": [
+                {
+                    "product": "Margarita Pizza (22cm)",
+                    "ingredients": "Hazırlanma Süresi 20-25 dk",
+                    "price": "125 TL",
+                    "img": ""
+                },
+                {
+                    "product": "Karışık Pizza (22cm)",
+                    "ingredients": "Hazırlanma Süresi 20-25 dk",
+                    "price": "135 TL",
+                    "img": ""
+                }
+            ]
+        }
+    ]
+}
